@@ -147,7 +147,7 @@ const heroContents = [
   }
 ];
 
-const videoSource = 'public/EF_Asia_MV1.mp4';
+const videoSource = 'https://raw.githubusercontent.com/seansim-kor/EF-Solution-Asia/main/public/EF_Asia_MV1.mp4';
 
 const Hero = () => {
   const [currentIndex, setCurrentIndex] = useState(0);

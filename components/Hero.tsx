@@ -27,7 +27,7 @@ const heroContents: HeroContent[] = [
 ];
 
 // For best web compatibility, the video should be in .mp4 format.
-const videoSource = '/EF_Asia_MV1.mp4';
+const videoSource = 'https://raw.githubusercontent.com/seansim-kor/EF-Solution-Asia/main/public/EF_Asia_MV1.mp4';
 
 
 const Hero: React.FC = () => {
